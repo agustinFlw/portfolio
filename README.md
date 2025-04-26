@@ -1,4 +1,5 @@
 <h1>Vista previa:</h1>
 
-![image](https://github.com/user-attachments/assets/49117e9e-5b65-45e9-a5e4-c5f8103e282f)
+![image](https://github.com/user-attachments/assets/a7fd5b38-4a3b-4396-9965-c70ad430e07b)
+
 # portafolio
